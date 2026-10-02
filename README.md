@@ -97,8 +97,3 @@ Customer-Churn-Prediction/
 Smit
 ```
 
-### Bas itna hi. ✅
-
-Phir **Ctrl + S** karo.
-
-**Kuch aur add/delete mat karna.**
